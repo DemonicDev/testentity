@@ -1,0 +1,7 @@
+---
+entityName: "boar"                     #can set to anything. Must be unique to each entity. Generate it however you like. //would set to {name}.yml //boar because boar.yml
+entitySkinPNG: "boar"                  #Your skin file name. {name}.png 
+entityGeometryName: "boar"            #Your model name inside the JSON.
+entityGeometryJSONFile: "boar.geo"   # Your JSON file name. 
+folder: "DemonicEagle"               #the folder where this is saved in.
+...
