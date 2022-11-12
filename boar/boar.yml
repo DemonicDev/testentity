@@ -4,11 +4,11 @@
 # pls do {name}.yml ; {name}.png and {name}.geo
 # in {name}.geo pls use geometry.{name}
 damage: 2
-health: 20
+health: 200
 speed: 1.2
-scale: 1.8
+scale: 0.2
 #working on size of hitbox
 #size: (new EntitySizeInfo(1.8, 1.8));
 #setNameTagAlwaysVisible:
-
+Ai: "hostile"
 ...
